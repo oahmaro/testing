@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"testing9740e86a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
