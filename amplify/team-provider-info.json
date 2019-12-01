@@ -10,6 +10,13 @@
             "StackName": "amplify-testing-prod-191030",
             "StackId": "arn:aws:cloudformation:eu-central-1:225750947707:stack/amplify-testing-prod-191030/7b235a90-145d-11ea-8c04-068257d07648",
             "AmplifyAppId": "d2o90smj0e99g0"
+        },
+        "categories": {
+            "auth": {
+                "testing9740e86a": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2430503313832843\",\"client_secret\":\"fc8143ed0f8933398a797cb3c9f47030\"},{\"ProviderName\":\"Google\",\"client_id\":\"581218012186-8l7nss2eaubd5qkpv291c0bieuo61vaf.apps.googleusercontent.com\",\"client_secret\":\"xbOK7zvm4Z1SoLCHbHDhDO7y\"}]"
+                }
+            }
         }
     },
     "dev": {
